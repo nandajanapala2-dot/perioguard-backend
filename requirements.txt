@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+flask-bcrypt
+flask-cors
+flask-restful
+pymysql
+textblob
+pytz
+werkzeug
+gunicorn
+cryptography
+requests
